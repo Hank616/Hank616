@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 Current Interests
-- Web development (HTML, CSS, JavaScript, React)
+- Web development (CSS, JavaScript)
 - Python programming
 - Learning about AI and data science
 - Open source collaboration
